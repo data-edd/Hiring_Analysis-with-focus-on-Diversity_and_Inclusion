@@ -127,7 +127,7 @@ A calculated measured Key Performance Indicator (KPI) is a quantifiable metric t
 
 # Dashboard 
 
-![Hiring](https://github.com/data-edd/PWC_Diversity_and_Inclusion_Dashboard/assets/Screenshot 2025-03-10 210650.png)
+![Hiring](https://github.com/data-edd/PWC_Diversity_and_Inclusion_Dashboard/assets/Screenshot_2025_03_10_210650.png)
 
 
 ![Promotion](https://github.com/data-edd/PWC_Diversity_and_Inclusion_Dashboard/assets/143104174/f9404271-3a01-4881-8df2-38c7fac8ce9b)
